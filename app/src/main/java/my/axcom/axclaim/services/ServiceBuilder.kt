@@ -12,7 +12,7 @@ import java.text.DateFormat
 
 object ServiceBuilder {
 
-    private const val URL = "http://103.47.154.252/~axhrms/axhrmsapi/api/"
+    private const val URL = "http://103.47.154.252/~axhrms/axhrmsapi/api/11111"
 
     private val logger = HttpLoggingInterceptor().setLevel(HttpLoggingInterceptor.Level.BODY)
 
